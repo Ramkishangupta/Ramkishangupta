@@ -18,7 +18,7 @@
 <div align="center">
 
  
- 🌱 I’m currently learning **Noje.js, Native, Firebase**
+ 🌱 I’m currently learning **Node.js, Native, Firebase**
 
 💬 Ask me about **Frontend, GameDev... or anything**
 
