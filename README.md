@@ -63,7 +63,7 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=ramkishangupta&show_icons=true&locale=en&layout=compact" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=ramkishangupta&show_icons=true&locale=en" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramkishangupta&" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramkishangupta" alt="top langs" />
 </div>
 
 <br/><br/>
